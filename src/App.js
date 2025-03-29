@@ -43,7 +43,7 @@ function ProgressBar() {
   );
 }
 
-function ProgressSection() {
+function ProgressBar() {
   return (
     <div className="progress-section">
       <h2>Progress</h2>
